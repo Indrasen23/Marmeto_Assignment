@@ -28,13 +28,15 @@ body {
 .choice-box {
   width: calc(100%/3);
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .choice-box.active {
   background: #000000;
   color: white;
 }
-
 
 
 /* Card styling */

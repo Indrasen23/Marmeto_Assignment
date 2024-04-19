@@ -5,6 +5,8 @@ const women = document.getElementById("women");
 const kids = document.getElementById("kids");
 const cardContainer = document.getElementById("cardContainer");
 
+
+
 // Function to fetch data from the API
 const fetchData = async () => {
     try {
