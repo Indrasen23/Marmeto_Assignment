@@ -1,3 +1,5 @@
+This is the project received as an assignment for an internship.
+
 Deployed Website Link - https://marmeto-assignment-one.vercel.app/
 
 Indrasen's Coding Assessment
